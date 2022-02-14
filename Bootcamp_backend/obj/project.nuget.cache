@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NwLtz5hJa+Pic1aRxK/PusaGcnjLMX0xlUbw7H7PnGpVQwyNmuvovH25uz45KprKNOogfMxtJDX/CAEbtmv2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\virem\\RiderProjects\\Bootcamp_backend\\Bootcamp_backend\\Bootcamp_backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virem\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.1\\microsoft.aspnetcore.authentication.negotiate.6.0.1.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.1\\microsoft.aspnetcore.connections.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\microsoft.extensions.features\\6.0.1\\microsoft.extensions.features.6.0.1.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\system.directoryservices.protocols\\6.0.0\\system.directoryservices.protocols.6.0.0.nupkg.sha512",
+    "C:\\Users\\virem\\.nuget\\packages\\system.io.pipelines\\6.0.1\\system.io.pipelines.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
